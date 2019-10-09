@@ -32,10 +32,7 @@ In the jython directory, the code files that has changed / were created for this
 
 
 The data files for the neural network section are:
-x_test.csv
-x_train.csv
-y_test.csv
-y_train.csv
+x_test.csv, x_train.csv, y_test.csv, and y_train.csv
 
 
 Note that all the code has already been run, so the output .csv and .png files are already produced. You can always delete them and rerun it, or just run the code and they will be overwritten. 
