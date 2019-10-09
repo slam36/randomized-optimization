@@ -1,0 +1,104 @@
+"
+Results for GA_100_50_5: 
+Correctly classified 2847 training instances.
+Incorrectly classified 373 instances.
+Percent correctly classified: 88.416%
+Results for GA_100_50_5: 
+Correctly classified 1229 testing instances.
+Incorrectly classified 151 instances.
+Percent correctly classified: 89.058%
+Training time: 661.159 seconds
+Testing time: 0.050 seconds
+"
+
+"
+Results for GA_200_50_5: 
+Correctly classified 2931 training instances.
+Incorrectly classified 289 instances.
+Percent correctly classified: 91.025%
+Results for GA_200_50_5: 
+Correctly classified 1259 testing instances.
+Incorrectly classified 121 instances.
+Percent correctly classified: 91.232%
+Training time: 674.298 seconds
+Testing time: 0.050 seconds
+"
+
+"
+Results for GA_100_50_10: 
+Correctly classified 2886 training instances.
+Incorrectly classified 334 instances.
+Percent correctly classified: 89.627%
+Results for GA_100_50_10: 
+Correctly classified 1246 testing instances.
+Incorrectly classified 134 instances.
+Percent correctly classified: 90.290%
+Training time: 684.699 seconds
+Testing time: 0.050 seconds
+"
+
+"
+Results for GA_200_50_10: 
+Correctly classified 2951 training instances.
+Incorrectly classified 269 instances.
+Percent correctly classified: 91.646%
+Results for GA_200_50_10: 
+Correctly classified 1272 testing instances.
+Incorrectly classified 108 instances.
+Percent correctly classified: 92.174%
+Training time: 769.382 seconds
+Testing time: 0.056 seconds
+"
+
+"
+Results for GA_100_100_5: 
+Correctly classified 2947 training instances.
+Incorrectly classified 273 instances.
+Percent correctly classified: 91.522%
+Results for GA_100_100_5: 
+Correctly classified 1249 testing instances.
+Incorrectly classified 131 instances.
+Percent correctly classified: 90.507%
+Training time: 1272.918 seconds
+Testing time: 0.054 seconds
+"
+
+"
+Results for GA_200_100_5: 
+Correctly classified 2947 training instances.
+Incorrectly classified 273 instances.
+Percent correctly classified: 91.522%
+Results for GA_200_100_5: 
+Correctly classified 1250 testing instances.
+Incorrectly classified 130 instances.
+Percent correctly classified: 90.580%
+Training time: 1232.549 seconds
+Testing time: 0.052 seconds
+"
+
+"
+Results for GA_100_100_10: 
+Correctly classified 2913 training instances.
+Incorrectly classified 307 instances.
+Percent correctly classified: 90.466%
+Results for GA_100_100_10: 
+Correctly classified 1241 testing instances.
+Incorrectly classified 139 instances.
+Percent correctly classified: 89.928%
+Training time: 1117.254 seconds
+Testing time: 0.051 seconds
+"
+
+"
+Results for GA_200_100_10: 
+Correctly classified 2945 training instances.
+Incorrectly classified 275 instances.
+Percent correctly classified: 91.460%
+Results for GA_200_100_10: 
+Correctly classified 1248 testing instances.
+Incorrectly classified 132 instances.
+Percent correctly classified: 90.435%
+Training time: 1172.520 seconds
+Testing time: 0.052 seconds
+"
+

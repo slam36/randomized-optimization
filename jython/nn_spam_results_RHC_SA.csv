@@ -1,0 +1,78 @@
+"
+Results for RHC: 
+Correctly classified 3058 training instances.
+Incorrectly classified 162 instances.
+Percent correctly classified: 94.969%
+Results for RHC: 
+Correctly classified 1291 testing instances.
+Incorrectly classified 89 instances.
+Percent correctly classified: 93.551%
+Training time: 657.344 seconds
+Testing time: 0.051 seconds
+"
+
+"
+Results for SA_15: 
+Correctly classified 3044 training instances.
+Incorrectly classified 176 instances.
+Percent correctly classified: 94.534%
+Results for SA_15: 
+Correctly classified 1282 testing instances.
+Incorrectly classified 98 instances.
+Percent correctly classified: 92.899%
+Training time: 1010.377 seconds
+Testing time: 0.051 seconds
+"
+
+"
+Results for SA_35: 
+Correctly classified 3027 training instances.
+Incorrectly classified 193 instances.
+Percent correctly classified: 94.006%
+Results for SA_35: 
+Correctly classified 1281 testing instances.
+Incorrectly classified 99 instances.
+Percent correctly classified: 92.826%
+Training time: 655.784 seconds
+Testing time: 0.052 seconds
+"
+
+"
+Results for SA_55: 
+Correctly classified 3062 training instances.
+Incorrectly classified 158 instances.
+Percent correctly classified: 95.093%
+Results for SA_55: 
+Correctly classified 1292 testing instances.
+Incorrectly classified 88 instances.
+Percent correctly classified: 93.623%
+Training time: 630.399 seconds
+Testing time: 0.053 seconds
+"
+
+"
+Results for SA_75: 
+Correctly classified 3020 training instances.
+Incorrectly classified 200 instances.
+Percent correctly classified: 93.789%
+Results for SA_75: 
+Correctly classified 1279 testing instances.
+Incorrectly classified 101 instances.
+Percent correctly classified: 92.681%
+Training time: 640.991 seconds
+Testing time: 0.052 seconds
+"
+
+"
+Results for SA_95: 
+Correctly classified 3040 training instances.
+Incorrectly classified 180 instances.
+Percent correctly classified: 94.410%
+Results for SA_95: 
+Correctly classified 1283 testing instances.
+Incorrectly classified 97 instances.
+Percent correctly classified: 92.971%
+Training time: 930.902 seconds
+Testing time: 0.051 seconds
+"
+
