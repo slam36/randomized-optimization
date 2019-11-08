@@ -42,7 +42,7 @@ x_test.csv, x_train.csv, y_test.csv, and y_train.csv
 
 Note that all the code has already been run, so the output .csv and .png files are already produced. You can always delete them and rerun it, or just run the code and they will be overwritten. 
 
-
+Note: My analysis report is not provided to prevent plagiarism. This project was done for a machine learning course at Georgia Tech.
 
 
 
