@@ -1,5 +1,10 @@
-## This is a copy of the ABAGAIL code from: https://github.com/pushkar/ABAGAIL 
-## What I did was take the starter code from the jython directory and edit it for this project.
+# Exploration of Randomized Optimization algorithms
+In this project, I explore random search optimization algorithms. These algorithms were randomized hill climbing, simulated annealing, genetic algorithm, and mutual information maximizing input clustering (MIMIC). To explore the strengths and weaknesses of each algorithm, each algorithm was applied to three common optimizatoin problems: four peaks, knapsack, and traveling salesman. In addition to analyzing discrete optimization problems, these algorithms were also used to find optimal weights for a neural network in place of back propagation. I used the ABAGAIL library which is implemented in Java but I used jython for this project.
+
+### Note: This code is a copy of the ABAGAIL code from: https://github.com/pushkar/ABAGAIL 
+### What I did was take the starter code from the jython directory and edit it for this project.
+
+## Instructions to run code
 
 Before running, make sure you do
 $ant
